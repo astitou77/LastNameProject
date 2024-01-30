@@ -1,5 +1,7 @@
 > sudo apt-get install git
+
 > cd ~/Desktop
+
 > git clone https://github.com/astitou77/LastNameProject
 
 Install MySQL, add DB with appropriate credentials
