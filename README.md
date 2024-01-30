@@ -11,7 +11,7 @@ Install MySQL, add DB with appropriate credentials
 
 > CREATE DATABASE helloDB;
 
-> CREATE TABLE employees (lastname VARCHAR(255), firstname VARCHAR(255))
+> CREATE TABLE employees (first_name VARCHAR(255), last_name VARCHAR(255))
 
 Open 'HelloWorld' Project in Eclipse IDE
 > ./eclipse
