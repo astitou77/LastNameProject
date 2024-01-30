@@ -11,16 +11,27 @@ JSP (Java Servlet Pages) Demo
 Install MySQL, add DB with appropriate credentials
 > sudo apt install mysql-server
 
-> mysql -u root -p
+mysql> mysql -u root -p
 
-> CREATE DATABASE helloDB;
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'l84w0rk'
 
-> CREATE TABLE employees (first_name VARCHAR(255), last_name VARCHAR(255))
+mysql> CREATE DATABASE helloDB;
+
+mysql> CREATE TABLE employees (first_name VARCHAR(255), last_name VARCHAR(255))
+
+mysql> EXIT
+
+
+Download Eclipe IDE for 'Web'
+https://www.eclipse.org/downloads/packages/
 
 Open 'HelloWorld' Project in Eclipse IDE
 > ./eclipse
 
-Update DB name/credentials accordingly.
+Update DBConnection.java with correct DB credentials
+Ex.: "jdbc:mysql://localhost:3306/helloDB", "debian-sys-maint", "IOTYffNlqJY5Rrf6"
+
+Run the Project 'as a Server' (Add Tomcat Server if prompted)
 
 Try the app !
 
