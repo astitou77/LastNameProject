@@ -2,7 +2,7 @@ JSP (Java Servlet Pages) Demo
 * HTTP requests: GET (Search) & POST (Save) 
 * SMTP requests: POST Emails
 
-> sudo apt-get install git
+> sudo apt install git
 
 > cd ~/Desktop
 
