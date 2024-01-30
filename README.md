@@ -1,3 +1,10 @@
+JSP (Java Servlet Pages) Demo 
+* HTTP requests: GET (Search) & POST (Save) 
+* SMTP requests: POST Emails
+* Solr Search: GET requests
+* LDAP Authentication requests (***Soon)
+
+
 > sudo apt-get install git
 
 > cd ~/Desktop
