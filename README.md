@@ -1,13 +1,6 @@
 JSP (Java Servlet Pages) Demo 
 * HTTP requests: GET (Search) & POST (Save) 
 * SMTP requests: POST Emails
-* SSL/TLS: HTTP(S) encryption (***Soon)
-* Solr Search: GET requests (***Soon)
-* LDAP Authentication requests (***Soon)
-
-Automation:
-* Ansible *.yml Playbook to automate (***Soon)
-* Jenkins CI/CD pipeline  (***Soon)
 
 > sudo apt-get install git
 
@@ -29,7 +22,15 @@ Open 'HelloWorld' Project in Eclipse IDE
 
 Update DB name/credentials accordingly.
 
-Try the app:
+Try the app !
+
+TODOs:
+* SSL/TLS: HTTP(S) encryption (***Soon)
+* Solr Search: GET requests (***Soon)
+* LDAP Authentication requests (***Soon)
+* Ansible *.yml Playbook to automate (***Soon)
+* Jenkins CI/CD pipeline  (***Soon)
+
 
 
 Enjoy !
