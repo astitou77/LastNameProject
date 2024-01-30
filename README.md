@@ -11,15 +11,15 @@ JSP (Java Servlet Pages) Demo
 Install MySQL, add DB with appropriate credentials
 > sudo apt install mysql-server
 
-mysql> mysql -u root -p
+> mysql> mysql -u root -p
 
-mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'l84w0rk'
+> mysql> ALTER USER 'root'@'localhost' IDENTIFIED BY 'l84w0rk'
 
-mysql> CREATE DATABASE helloDB;
+> mysql> CREATE DATABASE helloDB;
 
-mysql> CREATE TABLE employees (first_name VARCHAR(255), last_name VARCHAR(255))
+> mysql> CREATE TABLE employees (first_name VARCHAR(255), last_name VARCHAR(255))
 
-mysql> EXIT
+> mysql> EXIT
 
 
 Download Eclipe IDE for 'Web'
