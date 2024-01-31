@@ -30,7 +30,7 @@ Open 'HelloWorld' Project in Eclipse IDE
 
 Update DBConnection.java with correct DB credentials
 
-Ex.: "jdbc:mysql://localhost:3306/helloDB", "debian-sys-maint", "IOTYffNlqJY5Rrf6"
+Ex.: "jdbc:mysql://localhost:3306/helloDB", "root", "l84w0rk"
 
 
 Run the Project 'as a Server' (Add Tomcat Server if prompted)
@@ -39,6 +39,9 @@ Try the app in a Browser !
 
 http://localhost:8080/HelloWorld
 
+1. Add Employees
+2. Search Employees
+3. Email Employees
 
 TODOs:
 * SSL/TLS: HTTP(S) encryption (***Soon)
