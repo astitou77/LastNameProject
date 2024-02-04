@@ -33,7 +33,7 @@ Update DBConnection.java with correct DB credentials
 Ex.: "jdbc:mysql://localhost:3306/helloDB", "root", "l84w0rk"
 
 
-Run the Project 'as a Server' (Add Tomcat Server if prompted)
+In Eclipse IDE, run the Project 'as a Server' (Add Tomcat Server if prompted)
 
 Try the app in a Browser !
 
@@ -44,10 +44,10 @@ http://localhost:8080/HelloWorld
 3. Email Employees
 
 TODOs:
-* SSL/TLS: HTTP(S) encryption (***Soon)
-* Solr Search: GET requests (***Soon)
-* LDAP Authentication requests (***Soon)
-* Ansible *.yml Playbook to automate (***Soon)
+* SSL/TLS: HTTP(S) encryption (Next Week)
+* Solr Search: GET requests (Next Week)
+* LDAP Authentications (***Soon)
+* Ansible *.yml Playbook to automate all steps above (***Soon)
 * Jenkins CI/CD pipeline  (***Soon)
 
 
